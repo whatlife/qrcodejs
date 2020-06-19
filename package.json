@@ -1,6 +1,6 @@
 {
   "name": "qrcodejs-bd",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a qrcode plug-in with border parameters. QRCodeJS is a javascript library for making QRCode. It has no dependencies, is cross-browser and using HTML5 Canvas. This porject is a fork by wahtlife Company from zhiyuan-l, with Code Length Overflow fixed.",
   "main": "qrcode.min.js",
   "scripts": {
